@@ -38,9 +38,9 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 
 ## PROGRAM
 
-### Name: SHAGILAN U
+### Name: GOWTHAM G T
 
-### Register Number: 212224040303
+### Register Number: 212224110017
 
 ```
 import torch
